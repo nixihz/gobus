@@ -1,4 +1,5 @@
-# Gobus
+# Gobus 🚧
+The project is under development, please wait.
 
 # Usage
 
